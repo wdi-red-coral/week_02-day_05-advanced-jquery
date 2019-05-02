@@ -68,3 +68,17 @@ With your group, you are going to build a fully functioning To Do List applicati
 
 - The [pseudo code is here](to-do-list/pseudocode_suggestions.md)
 - Your [starter code is here](to-do-list)
+
+**Goals**
+
+1.  Add a submit event to "Add to List"
+2.  Add a click even to "Clear List"
+3.  Add a remove button and click event to "Remove" an item from the list (you will need event delegation)
+4.  Add a click event on the item to cross off the item to "Complete" the to do item (you will need event delegation)
+5.  Add a click event to "Clear Completed" items
+
+**Bonus Features**
+
+6.  Add a count of all items that are not "Complete"
+7.  Add an edit button and click event to change the html of the `li` for that item to a `form` and `input` so they can edit the to do item (you will need event delegation)
+8.  Add a submit event to the `form` so they can save the edited to do item and change the html of the `li` to be the updated item (you will need event delegation)
