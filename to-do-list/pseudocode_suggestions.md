@@ -21,8 +21,8 @@
 2.	When the user clicks the Clear List button
 	*	Select the list
 	*	Empty the list
-	
-3.      Mark to-do list item as complete
+
+3.	Mark to-do list item as complete
 	*	When the user clicks on the list item
 	*	Get the to-do list item the user clicked on
 	*	Add a css line-through style to the item
